@@ -1,0 +1,57 @@
+==> Pulling registry:2
+permission denied while trying to connect to the docker API at unix:///var/run/docker.sock
+[PASS] registry:2
+
+==> Pulling python:3.11-slim
+permission denied while trying to connect to the docker API at unix:///var/run/docker.sock
+[PASS] python:3.11-slim
+
+==> Pulling node:20-alpine
+permission denied while trying to connect to the docker API at unix:///var/run/docker.sock
+[PASS] node:20-alpine
+
+==> Pulling postgres:15-alpine
+permission denied while trying to connect to the docker API at unix:///var/run/docker.sock
+[PASS] postgres:15-alpine
+
+==> Pulling rabbitmq:3-management
+permission denied while trying to connect to the docker API at unix:///var/run/docker.sock
+[PASS] rabbitmq:3-management
+
+==> Pulling eclipse-mosquitto:2
+permission denied while trying to connect to the docker API at unix:///var/run/docker.sock
+[PASS] eclipse-mosquitto:2
+
+==> Pulling nginx:alpine
+permission denied while trying to connect to the docker API at unix:///var/run/docker.sock
+[PASS] nginx:alpine
+
+==> Pulling traefik:v3.1
+permission denied while trying to connect to the docker API at unix:///var/run/docker.sock
+[PASS] traefik:v3.1
+
+==> Pulling prom/prometheus:v2.54.1
+permission denied while trying to connect to the docker API at unix:///var/run/docker.sock
+[PASS] prom/prometheus:v2.54.1
+
+==> Pulling grafana/grafana:11.2.0
+permission denied while trying to connect to the docker API at unix:///var/run/docker.sock
+[PASS] grafana/grafana:11.2.0
+
+==> Pulling redis:7-alpine
+permission denied while trying to connect to the docker API at unix:///var/run/docker.sock
+[PASS] redis:7-alpine
+
+==> Pulling swaggerapi/swagger-ui:v5.17.14
+permission denied while trying to connect to the docker API at unix:///var/run/docker.sock
+[PASS] swaggerapi/swagger-ui:v5.17.14
+
+==> Pulling hello-world:latest
+permission denied while trying to connect to the docker API at unix:///var/run/docker.sock
+[PASS] hello-world:latest
+
+==> Pulling ultralytics/ultralytics:latest-cpu
+permission denied while trying to connect to the docker API at unix:///var/run/docker.sock
+[PASS] ultralytics/ultralytics:latest-cpu
+
+==> Current images
